@@ -1,3 +1,3 @@
 # TicTacToe
 
-My first ever side project. This is a text-based, console version of Tic Tac Toe. 
+My first ever side project. This is a text-based, console version of Tic Tac Toe. Currently a work in progress. We shall see if it goes anywhere...
